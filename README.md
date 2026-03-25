@@ -1,2 +1,2 @@
 # Astron1221
-My foundation of data analysis in astronomy with Python.
+Foundational Python and scientific computing in Astronomy with Python.   Here, I document lecture notes, code, and exercises from Coding Essentials for Astronomers, part of ASTRON 1221.
